@@ -1,3 +1,4 @@
+[G](.resources/JollyAgenda.gif)
 # Hey uhh welcome to my solutions I guess
 My solutions for [Advent of code](https://adventofcode.com/)
 
