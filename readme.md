@@ -1,4 +1,4 @@
-[G](.resources/JollyAgenda.gif)
+![A picmix image of a child getting converted into melody from super lesbian animal rpg overlaid with various low res picmix gifs and images fitting a christmas mood. Ho Ho Ho, Merry christmas](.resources/JollyAgenda.gif)
 # Hey uhh welcome to my solutions I guess
 My solutions for [Advent of code](https://adventofcode.com/)
 
