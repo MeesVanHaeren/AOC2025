@@ -10,3 +10,5 @@ from the root of the repository:
 ```Bash
 cat input.txt | solutions/day1/solution.py
 ```
+### But what if I don't have bash on my system
+Don't be on windows
